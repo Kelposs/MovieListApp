@@ -18,7 +18,7 @@
 - **お気に入り機能**: ユーザーは好みの映画をお気に入りリストに追加し、後で簡単にアクセスできるようにすることができます。
 
 ## 使用技術とパッケージ
-- flutter:
+- flutter(3.18)
 - cached_network_image
 - dio
 - flutter_riverpod
